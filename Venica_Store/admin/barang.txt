@@ -1,0 +1,3 @@
+#ID#Name#Image#Price#Quantity#Category#Brand
+# #Keychron K2 WHITE Backlight PLASTIC Frame Wireless Mechanical Keyboard - Red Switch#img1.jpg#999.000#10#Keyboard#Samsung
+# #LG UltraGear™ 24GN600-B 23.8'' FHD IPS Gaming Monitor AMD FreeSync#img2.jpg#2.799.000#20#Monitor#LG
